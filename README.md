@@ -1,6 +1,8 @@
-# spring-jersey-maven
-Spring Jersey Maven integration
+# spring-jersey-Cassandra
+Spring Jersey Cassandra Maven integration
 
 
 ### Build
+````sh
 mvn clean package
+```
