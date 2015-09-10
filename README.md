@@ -1,4 +1,4 @@
-# spring-jersey-cassandra
+# spring-jersey-Cassandra
 Spring Jersey Cassandra Maven integration
 
 

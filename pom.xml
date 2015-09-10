@@ -18,7 +18,7 @@
 	</properties>
 
 	<build>
-		<finalName>spring-jersey-cassandra</finalName>
+		<finalName>spring-jersey</finalName>
 		<plugins>
 			<!-- Set JDK Compiler Level -->
 			<plugin>
@@ -96,12 +96,6 @@
 					<artifactId>spring-context</artifactId>
 				</exclusion>
 			</exclusions>
-		</dependency>
-
-		<dependency>
-			<groupId>org.springframework.data</groupId>
-			<artifactId>spring-data-cassandra</artifactId>
-			<version>1.3.0.RELEASE</version>
 		</dependency>
 
 	</dependencies>
